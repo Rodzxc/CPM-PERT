@@ -1,4 +1,4 @@
-# <span style="color:cyan">CPM_Gantt_PERT</span>
+# CPM_Gantt_PERT
 
 ## Gestión de Proyectos - Duración de tareas 
 
