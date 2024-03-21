@@ -1,4 +1,5 @@
-# CPM_Gantt_PERT
+# <font color="cian">CPM_Gantt_PERT</font>
+
 ## Gestión de Proyectos - Duración de tareas 
 
 Te has preguntado cuanto puede durar la fabricación de un producto, un edificio, un emprendimiento o cualquier otro proyecto nuevo? 🤔
