@@ -12,11 +12,18 @@ Calcular tiempos de ejecución, tareas críticas, holguras y determinar el tiemp
 
 ## Resultados
 - Diagrama de nodos con el camino crítico, Tiempos tempranos y tardios.
-![Nodos](https://github.com/Rodzxc/CPM-PERT/assets/133074545/4dbd255e-fd47-45e8-8aa2-ab671594ff1c)
+![Nodos](https://github.com/Rodzxc/CPM-PERT/assets/133074545/fbac472f-c32d-4222-944a-542c66333281)
   
 - Diagrama de Gantt con los progresos de cada tarea, holguras, encargados de las tareas y la criticidad (C).
+![Gantt](https://github.com/Rodzxc/CPM-PERT/assets/133074545/eabaee0c-0ef1-4462-a0a7-00dab1938808)
+
 - Probabilidad de terminar el proyecto mediante Distribución Triangular y PERT
+![Triang](https://github.com/Rodzxc/CPM-PERT/assets/133074545/e4f2700c-500c-4476-8eb8-c4e761e5be4a)
+![PERT](https://github.com/Rodzxc/CPM-PERT/assets/133074545/57ccf27f-9087-4bff-85bc-32a0a851d33e)
+
 - Probabilidad de terminar el proyecto mediante Distribución Normal y Simulación MonteCarlo
+![Normal](https://github.com/Rodzxc/CPM-PERT/assets/133074545/99e101ac-dcf3-4cc9-966a-b31ff1837d74)
+![Sim](https://github.com/Rodzxc/CPM-PERT/assets/133074545/bc3f304d-0bc4-4167-a4e4-21fd061c1323)
 
 ## Conclusión
 Las probabilidades de finalizar el proyecto, en determinado tiempo, cambia dependiendo del criterio y del grado de incertidumbre asociada a la duración de cada tarea.
