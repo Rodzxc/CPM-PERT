@@ -1,7 +1,6 @@
 # CPM-PERT
 ## Gestión de Proyectos - Duración de tareas 
 
-## Descripción
 Te has preguntado cuanto puede durar la fabricación de un producto, un edificio, un emprendimiento o cualquier otro proyecto nuevo? 🤔
 
 En este repositorio se calculan los tiempos de un conjunto de tareas necesarias para completar un proyecto.
