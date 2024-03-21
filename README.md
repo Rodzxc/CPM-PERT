@@ -12,14 +12,17 @@ Calcular tiempos de ejecución, tareas críticas, holguras y determinar el tiemp
 
 ## Resultados
 - Diagrama de nodos con el camino crítico, Tiempos tempranos y tardios.
-![Nodos](https://github.com/Rodzxc/CPM-PERT/assets/133074545/fbac472f-c32d-4222-944a-542c66333281)
+![Nodos2](https://github.com/Rodzxc/CPM-PERT/assets/133074545/22b9422b-ee52-46de-b0a5-55d5fc71ffb0)
+
   
 - Diagrama de Gantt con los progresos de cada tarea, holguras, encargados de las tareas y la criticidad (C).
 ![Gantt](https://github.com/Rodzxc/CPM-PERT/assets/133074545/eabaee0c-0ef1-4462-a0a7-00dab1938808)
 
+
 - Probabilidad de terminar el proyecto mediante Distribución Triangular y PERT
 ![Triang](https://github.com/Rodzxc/CPM-PERT/assets/133074545/e4f2700c-500c-4476-8eb8-c4e761e5be4a)
 ![PERT](https://github.com/Rodzxc/CPM-PERT/assets/133074545/57ccf27f-9087-4bff-85bc-32a0a851d33e)
+
 
 - Probabilidad de terminar el proyecto mediante Distribución Normal y Simulación MonteCarlo
 ![Normal](https://github.com/Rodzxc/CPM-PERT/assets/133074545/99e101ac-dcf3-4cc9-966a-b31ff1837d74)
